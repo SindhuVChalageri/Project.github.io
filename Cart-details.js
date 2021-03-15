@@ -104,6 +104,6 @@ function remove(id){
          }
      }   
      localStorage.setItem("carts",JSON.stringify(newArray));
-     window.location.href="Cart.html";
+     window.location.href="cart.html";
 }
 
